@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, this is Katie ~</h1>
 <h3 align="center">Interests include Swimming, Badminton, Genshin Impact, Hip Hop and oh yeah, Computer Science</h3>
-<p align="center">
-<img src="1.png" alt="Raidon Shogun" height="260" width="500"/>
-</p>
+
 <br>
 
 # Basic Information
@@ -12,6 +10,9 @@
 - Genshin Impact player but much more interested in watching character PV on bilibili though
 - Lover of the hip hop culture, avid fan of Eminem and Jay-Z in particular
 
+<p align="center">
+<img src="1.png" alt="Raidon Shogun" height="260" width="500"/>
+</p>
 
 # Fields of Interest
 - number-one priority is achieving good marks in compulsory courses
