@@ -14,9 +14,11 @@
 </p>
 
 # Fields of Interest
-- number-one priority is achieving good marks in compulsory courses
-- Problem Solving
-- Optimization and Online-Learning
+- Natural Language Processing
+- Large Language Models
+- AI for Science
+- Machine Learning
+- Human Alignment
 
 # Check out my Repositories
 <p align="left">I have uploaded a number of public repositories up to now, most of which belong in the category of school assignments. If you happen to find some of them helpful, don't forget to press 'star' ~</p>
