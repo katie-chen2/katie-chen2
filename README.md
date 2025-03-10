@@ -1,14 +1,13 @@
-<h1 align="center">Hi there, this is Katie ~</h1>
-<h3 align="center">Interests include Swimming, Badminton, Genshin Impact, Hip Hop and oh yeah, Computer Science</h3>
+<h1 align="center">Katie</h1>
+<h3 align="center">Computer Science major student, still striving to find research focus</h3>
 
 <br>
 
 # Basic Information
 - a Computer Science Major Undergraduate at ZJU
 - Have experience in Middle School Mathematical Tournaments and maintain an interest in problem-solving ever since
-- Amateur National Second-Level Swimmer and just amateur badminton player
-- Genshin Impact player but much more interested in watching character PV on bilibili though
-- Lover of the hip hop culture, avid fan of Eminem and Jay-Z in particular
+- Amateur swimmer, interested in playing badminton with friends
+- Genshin Impact player, interested in Zenless Zone and Honkai Star Rail as well
 
 <p align="center">
 <img src="111.jpg" alt="Raidon Shogun" height="260" width="500"/>
