@@ -10,7 +10,7 @@
 - Genshin Impact player, interested in Zenless Zone and Honkai Star Rail as well
 
 <p align="center">
-<img src="qingyi.jpg" alt="Qingyi from Zenless Zone" height="288" width="252"/>
+<img src="yunli.jpg" alt="Yunli from Hongkai Star Rail" height="300" width="500"/>
 </p>
 
 # Fields of Interest
