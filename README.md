@@ -7,7 +7,6 @@
 - a Computer Science Major Undergraduate at ZJU
 - Have experience in Middle School Mathematical Tournaments and maintain an interest in problem-solving ever since
 - Amateur swimmer, interested in playing badminton with friends
-- Genshin Impact player, interested in Zenless Zone and Honkai Star Rail as well
 
 <p align="center">
 <img src="yunli.jpg" alt="Yunli from Hongkai Star Rail" height="300" width="500"/>
@@ -16,9 +15,9 @@
 # Fields of Interest
 - Natural Language Processing
 - Large Language Models
-- AI for Science
+- Advanced Reasoning
+- Multi-agent collaboration
 - Machine Learning
-- Human Alignment
 
 # Check out my Repositories
 <p align="left">I have uploaded a number of public repositories up to now, most of which belong in the category of school assignments. If you happen to find some of them helpful, don't forget to press 'star' ~</p>
