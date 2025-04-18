@@ -5,7 +5,6 @@
 
 # Basic Information
 - a Computer Science Major Undergraduate at ZJU
-- CMO Bronze medalist, maintains an interest in problem-solving ever since
 - Semi-professional swimmer, amateur badminton player
 
 <p align="center">
