@@ -7,9 +7,6 @@
 - a Computer Science Major Undergraduate at ZJU
 - Semi-professional swimmer, amateur badminton player
 
-<p align="center">
-<img src="yunli.jpg" alt="Yunli from Hongkai Star Rail" height="300" width="500"/>
-</p>
 
 # Fields of Interest
 - Natural Language Processing & Large Language Models
