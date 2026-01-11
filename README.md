@@ -4,7 +4,7 @@
 <br>
 
 # Basic Information
-- a Computer Science Major Ph.D. student at Virginia Tech, with a focus on Generative AI (GenAI) and Natural Language Processing (NLP).
+- a Computer Science Major Ph.D. student at Virginia Tech, with a focus on GenAI and NLP.
 - Semi-professional swimmer, amateur badminton player
 
 
