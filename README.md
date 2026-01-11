@@ -1,10 +1,10 @@
 <h1 align="center">Katie</h1>
-<h3 align="center">Computer Science major student, NLP LLM PhD student to be</h3>
+<h3 align="center">Computer Science major student, ZJU -> VT</h3>
 
 <br>
 
 # Basic Information
-- a Computer Science Major Undergraduate at ZJU
+- a Computer Science Major Ph.D. student at Virginia Tech, with a focus on Generative AI (GenAI) and Natural Language Processing (NLP).
 - Semi-professional swimmer, amateur badminton player
 
 
