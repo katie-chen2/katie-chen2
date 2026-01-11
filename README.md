@@ -1,10 +1,10 @@
 <h1 align="center">Katie</h1>
-<h3 align="center">Computer Science major student, ZJU -> VT</h3>
+<h3 align="center">ZJU Graduate | CS Ph.D Student @ Virginia Tech</h3>
 
 <br>
 
 # Basic Information
-- a Computer Science Major Ph.D. student at Virginia Tech, with a focus on GenAI and NLP.
+- CS Ph.D. student @ Virginia Tech, engineering the future of GenAI and NLP.
 - Semi-professional swimmer, amateur badminton player
 
 
